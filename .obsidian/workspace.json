@@ -11,11 +11,9 @@
             "id": "9cdb21ec8a57c9e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "UVV/Estruturas de computadores/Caderno - Aula 5.md",
-                "mode": "source",
-                "source": false
+                "file": "UVV/Estruturas de computadores/imagens/Pasted image 20240307164408.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UVV/Estruturas de computadores/Caderno - Aula 5.md",
+                "file": "UVV/Estruturas de computadores/imagens/Pasted image 20240307164408.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UVV/Estruturas de computadores/Caderno - Aula 5.md",
+                "file": "UVV/Estruturas de computadores/imagens/Pasted image 20240307164408.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UVV/Estruturas de computadores/Caderno - Aula 5.md"
+                "file": "UVV/Estruturas de computadores/imagens/Pasted image 20240307164408.png"
               }
             }
           }
@@ -146,19 +144,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9cdb21ec8a57c9e7",
+  "active": "b7ecc4b8afe44387",
   "lastOpenFiles": [
-    "Pasted image 20240307191159.png",
-    "Pasted image 20240307191055.png",
-    "Pasted image 20240307191033.png",
-    "Pasted image 20240307190648.png",
-    "Pasted image 20240307190444.png",
-    "Pasted image 20240307190333.png",
-    "Pasted image 20240307190111.png",
-    "Pasted image 20240307185842.png",
-    "Pasted image 20240307185757.png",
-    "Pasted image 20240307164831.png",
-    "Pasted image 20240307164606.png",
+    "UVV/Estruturas de computadores/Caderno - Aula 5.md",
+    "UVV/Estruturas de computadores/imagens/Pasted image 20240307191159.png",
+    "UVV/Estruturas de computadores/imagens/Pasted image 20240307191055.png",
+    "UVV/Estruturas de computadores/imagens/Pasted image 20240307191033.png",
+    "UVV/Estruturas de computadores/imagens/Pasted image 20240307190648.png",
+    "UVV/Estruturas de computadores/imagens/Pasted image 20240307190444.png",
+    "UVV/Estruturas de computadores/imagens/Pasted image 20240307190333.png",
+    "UVV/Estruturas de computadores/imagens/Pasted image 20240307190111.png",
+    "UVV/Estruturas de computadores/imagens/Pasted image 20240307185842.png",
+    "UVV/Estruturas de computadores/imagens/Pasted image 20240307185757.png",
+    "UVV/Estruturas de computadores/imagens/Pasted image 20240307164831.png",
     "UVV/Fundamentos do sistema de informação/Caderno - AULA 03.md",
     "UVV/Fundamentos do sistema de informação/Caderno - AULA 02.md",
     "UVV/Estruturas de computadores/Caderno - AULA 3.md",
