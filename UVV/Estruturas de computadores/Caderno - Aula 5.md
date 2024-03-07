@@ -204,7 +204,7 @@ comunitário
 
 ![[Pasted image 20240307190111.png]]
 
-# Características da computação em nuvem
+- # Características da computação em nuvem
 
 ![[Pasted image 20240307190333.png]]
 ![[Pasted image 20240307190444.png]]
@@ -216,7 +216,7 @@ comunitário
 ![[Pasted image 20240307191159.png]]
 
 
-# Conclusão 
+- # Conclusão 
 
 Neste capítulo, você aprendeu que os termos virtualização e computação em nuvem costumam ser usados de forma intercambiável, embora realmente signifiquem coisas diferentes. A virtualização é uma tecnologia que permite que um único computador hospede vários computadores virtuais que compartilham o mesmo hardware de computador host. A computação em nuvem é uma tecnologia que permite a separação de aplicativos do hardware. A virtualização é a base que suporta a computação em nuvem.
 
