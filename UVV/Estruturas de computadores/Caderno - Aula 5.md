@@ -52,7 +52,7 @@ A virtualização de servidores para usar recursos com mais eficiência resolve 
 
 ![[Pasted image 20240305213629.png]]
 
-# Virtualização de servidores
+- # Virtualização de servidores
 
 A virtualização de servidores aproveita os recursos inativos para reduzir o número de servidores necessários para fornecer serviços aos usuários.
 
@@ -159,6 +159,75 @@ A computação em nuvem fornece aos usuários a entrega sob demanda dos serviço
 
 - # Serviços em nuvem
 
+Os provedores de serviços em nuvem podem fornecer vários serviços adaptados para atender às necessidades dos clientes. No entanto, a maioria dos serviços de computação em nuvem pode ser categorizada em três serviços principais de computação em nuvem, conforme definido pelo Instituto Nacional de Padrões e Tecnologia (NIST) em sua Publicação Especial (800-145):
+
+- **Software como serviço (SaaS)** -o provedor de nuvem fornece acesso a serviços, como e-mail, calendário, comunicação e ferramentas de escritório pela Internet, com base na assinatura. Os usuários acessam o software usando um navegador. As vantagens incluem custos antecipados mínimos para clientes e disponibilidade imediata de aplicativos. Os provedores de SaaS incluem o software de relacionamento de gerenciamento de cliente do Salesforce (CRM), Microsoft Office 365, MS SharePoint software e Google G Suite.
+
+- **Plataforma como serviço (PaaS)** – o provedor de nuvem fornece acesso a sistemas operacionais, ferramentas de desenvolvimento, linguagens de programação e bibliotecas usadas para desenvolver, testar e entregar aplicativos. Isso é útil para os desenvolvedores de aplicativos. O provedor de nuvem gerencia a rede, os servidores e a infraestrutura de nuvem subjacentes. Os provedores de PaaS incluem o Amazon Web Service, Oracle Cloud, Google plataforma de nuvem e Microsoft Azure.
+
+- **Infraestrutura como serviço (IaaS)** - O provedor de nuvem gerencia a rede e fornece às organizações acesso a equipamentos de rede, serviços de rede virtualizados, armazenamento, software e infraestrutura de rede de suporte. Há muitas vantagens para as empresas adotarem o IaaS. As empresas não precisam investir em equipamentos de capital e somente pagar pelo uso sob demanda. A rede do provedor inclui redundância e elimina um único ponto de falha na infraestrutura de rede do provedor. A rede também pode se expandir perfeitamente com base nos requisitos atuais. Os provedores IaaS incluem o Amazon Web Service, DigitalOcean e Microsoft Azure.
+
+Os provedores de serviços em nuvem estenderam o modelo IaaS para também fornecer TI como serviço (ITaaS). O ITaaS pode estender a capacidade da TI sem exigir investimento em nova infraestrutura, treinamento de novas equipes ou licenciamento de novo software. Esses serviços estão disponíveis sob demanda e de forma economicamente viável para qualquer dispositivo em qualquer lugar do mundo sem comprometer a segurança ou o funcionamento.
+
+![[Pasted image 20240307164408.png]]
+
+
+- ### Questões
+
+Leia o cenário e selecione o modelo de nuvem usado.
+
+#### Questão 1
+
+![[Pasted image 20240307164606.png]]
+#### resposta
+Rede Pública 
+
+#### Questão 2 
+
+![[Pasted image 20240307164831.png]]
+#### Resposta
+Híbrida
+
+#### Questão 3
+
+![[Pasted image 20240307185757.png]]
+
+#### resposta
+privado
+
+#### Questão 4
+
+![[Pasted image 20240307185842.png]]
+
+#### resposta
+comunitário
+
+![[Pasted image 20240307190111.png]]
+
+# Características da computação em nuvem
+
+![[Pasted image 20240307190333.png]]
+![[Pasted image 20240307190444.png]]
+![[Pasted image 20240307190648.png]]
+![[Pasted image 20240307191033.png]]
+![[Pasted image 20240307191055.png]]
+
+
+![[Pasted image 20240307191159.png]]
+
+
+# Conclusão 
+
+Neste capítulo, você aprendeu que os termos virtualização e computação em nuvem costumam ser usados de forma intercambiável, embora realmente signifiquem coisas diferentes. A virtualização é uma tecnologia que permite que um único computador hospede vários computadores virtuais que compartilham o mesmo hardware de computador host. A computação em nuvem é uma tecnologia que permite a separação de aplicativos do hardware. A virtualização é a base que suporta a computação em nuvem.
+
+Você aprendeu que a forma tradicional de fornecer aplicativos e serviços aos usuários usando servidores dedicados é ineficiente, não confiável e não escalável. Os servidores dedicados podem ficar inativos por longos períodos, eles são um ponto único de falha e ocupam muito espaço físico. A virtualização resolve esses problemas consolidando muitos servidores virtuais em um único servidor físico, tirando proveito dos recursos ociosos e reduzindo o número de servidores necessários para fornecer serviços aos usuários. Você aprendeu as muitas vantagens que a virtualização tem sobre o uso tradicional de servidores dedicados, como o melhor uso de recursos, menos espaço necessário, custo reduzido e aumento do tempo de atividade do servidor.
+
+A computação em nuvem fornece aos usuários a entrega sob demanda dos serviços de computador pela Internet. A maioria de nós já usa esses serviços quando acessamos serviços de música on-line ou armazenamento de dados on-line. Você aprendeu sobre os tipos de serviços em nuvem oferecidos por provedores de serviços em nuvem. SaaS que fornece acesso a serviços, como e-mail, calendário, comunicação e ferramentas de escritório pela Internet, com base na assinatura. PaaS que fornece acesso a sistemas operacionais, ferramentas de desenvolvimento, linguagens de programação e bibliotecas usadas para desenvolver, testar e disponibilizar aplicativos. E o IaaS, que fornece às organizações acesso a equipamentos de rede, serviços de rede virtualizados, armazenamento, software e infraestrutura de rede de suporte.
+
+O capítulo concluiu vários exercícios para testar sua compreensão da terminologia e das características da computação em nuvem.
+
+
 ---
+
 
 # Aula gravada

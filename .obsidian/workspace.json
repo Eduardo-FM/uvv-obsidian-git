@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "4c8643b7d6dff33f",
+    "type": "split",
+    "children": [
+      {
+        "id": "660e5d080e169a78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cdb21ec8a57c9e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UVV/Estruturas de computadores/Caderno - Aula 5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45d8cbde93ab96d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4f5c5bd9e3d6043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ecc4b8afe44387",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1c0812f9e020591b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ce9d8f67d45cae4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b3f92ebcc1157fca",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b5ae6eab65a9e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eb6e6deae278d5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UVV/Estruturas de computadores/Caderno - Aula 5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13bdf3ba0244ede3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UVV/Estruturas de computadores/Caderno - Aula 5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "551e48a802ac553f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c84288b13e32728",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UVV/Estruturas de computadores/Caderno - Aula 5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9cdb21ec8a57c9e7",
+  "lastOpenFiles": [
+    "Pasted image 20240307191159.png",
+    "Pasted image 20240307191055.png",
+    "Pasted image 20240307191033.png",
+    "Pasted image 20240307190648.png",
+    "Pasted image 20240307190444.png",
+    "Pasted image 20240307190333.png",
+    "Pasted image 20240307190111.png",
+    "Pasted image 20240307185842.png",
+    "Pasted image 20240307185757.png",
+    "Pasted image 20240307164831.png",
+    "Pasted image 20240307164606.png",
+    "UVV/Fundamentos do sistema de informação/Caderno - AULA 03.md",
+    "UVV/Fundamentos do sistema de informação/Caderno - AULA 02.md",
+    "UVV/Estruturas de computadores/Caderno - AULA 3.md",
+    "UVV/Estruturas de computadores/Caderno - Aula 2.md"
+  ]
+}
